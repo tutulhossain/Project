@@ -1,0 +1,84 @@
+*
+{
+    margin:0px;
+    padding:0px;
+}
+
+.raq
+{
+    margin-top: 150px;
+    margin-left: 450px;
+    background-color: rgb(23, 160, 184);
+    width:380px;
+    height:350px;
+}
+#raq1
+{
+    margin-top: -330px;
+    margin-left: 470px;
+    background-color:black;
+    width:330px;
+    height:50px;
+    
+}
+#result
+{
+    
+    width: 300px;
+    box-sizing: border-box;
+    height: 30px;
+    margin-top:10px;
+    margin-left:15px;
+    background-color:white;
+    color: black;
+
+}
+#raq5
+{
+    margin-top:10px;
+    margin-left: 470px;
+    background-color:rgba(100, 94, 107, 0.521);
+    width:330px;
+    height:250px;
+}
+#raq5 #n1
+{
+    margin-left:20px;
+    margin-top: 20px;
+}
+#raq5 #n2
+{
+    margin-left:20px;
+    margin-top: 40px;
+}
+#operators
+{
+    margin-left: 20px;
+}
+#raq5 button
+{
+    width:170px;
+    
+}
+#raq5 #k2
+{
+    margin-left: 290px;
+    color: chartreuse;
+}
+#raq5 #k2:hover
+{
+    
+   
+    background-color:red;
+    width:50px;
+    
+}
+body
+{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(109, 121, 117);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
